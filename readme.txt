@@ -1,5 +1,5 @@
 === ClassiPress Google Checkout Gateway ===
-Contributors: dcowgill
+Contributors: dcowgill, appthemes
 Tags: classipress, appthemes, google checkout, gateway, payment, ecommerce
 Requires at least: 3.1
 Stable tag: trunk
